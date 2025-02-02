@@ -1,4 +1,5 @@
 # draw.with.me
 Realtime Collaborative Drawing App
-Switch to client branch for React
-Switch to server branch for Node
+
+1. Switch to client branch for React
+2. Switch to server branch for Node
